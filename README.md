@@ -17,7 +17,7 @@
   <img align="center" alt="linux-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="nodejs-icon" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
 </div>
-######🌎 How to contact me:
+
 <div>
   <a href="https://www.linkedin.com/in/rafael-scariot-aab058192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
