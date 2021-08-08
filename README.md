@@ -1,6 +1,6 @@
 ### Hello! Is anybody out there?
 
-- 🔭 I’m currently working as a software developer
+- 🔭 I’m currently working as a software developer.
 - 🌱 I’m currently studying Systems Analysis and Software Development.
 
 <div>
