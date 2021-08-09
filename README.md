@@ -9,6 +9,8 @@
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscariot&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
+  ##
+  
 <div style="display: inline">
   <img align="center" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="linux-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
