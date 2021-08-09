@@ -19,7 +19,8 @@
   <img align="center" alt="java-icon" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="postgresql-icon" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="mongodb-icon" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="mongodb-icon" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="mongodb-icon" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="mongodb-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
 <div>
