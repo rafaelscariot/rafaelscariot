@@ -1,7 +1,7 @@
 ### Hello! Is anybody out there?
 
 - 🔭 I’m currently working as a software developer.
-- 🌱 I’m currently studying Systems Analysis and Software Development.
+- 🌱 I’m currently studying Analysis and Systems Development.
 
 <div>
   <a href="https://github.com/rafaelscariot">
