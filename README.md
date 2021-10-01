@@ -7,7 +7,7 @@
 
 🌱 Minha formação:
 - Técnico em Manutenção e Suporte em Informática (2016 - 2018)
-- Análise e Desenvolvimento de Sistemas (2018 - 2022)
+- Análise e Desenvolvimento de Sistemas (2019 - 2021)
 
 <div>
   <a href="https://github.com/rafaelscariot">
