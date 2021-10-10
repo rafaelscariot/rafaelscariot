@@ -1,7 +1,6 @@
 ### Is there anybody out there?
 
 - 🔭 Olá, adoro codar e aqui encontram-se alguns projetos meus!
-- 🖥️ Atualmente atuo como desenvolvedor de software na empresa Compasso UOL.
 
 ##
 
