@@ -1,12 +1,12 @@
 ### Is there anybody out there?
 
-- 🔭 Olá, adoro codar e aqui encontram-se alguns projetos meus!
+- 🔭 Hi! I'm Rafael, I've been working with software development for 3 years and here are some of my projects!
 
 ##
 
-🌱 Minha formação:
-- Técnico em Manutenção e Suporte em Informática (2016 - 2018)
-- Análise e Desenvolvimento de Sistemas (2019 - 2021)
+🌱 My academic background:
+- Maintenance and Computer Support Technician (2016 - 2018)
+- Analysis and Systems Development (2019 - 2021)
 
 <div>
   <a href="https://github.com/rafaelscariot">
