@@ -8,6 +8,8 @@
 - Maintenance and Computer Support Technician (2016 - 2018)
 - Analysis and Systems Development (2019 - 2021)
 
+##
+
 <div>
   <a href="https://github.com/rafaelscariot">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rafaelscariot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
