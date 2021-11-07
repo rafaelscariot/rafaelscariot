@@ -1,6 +1,6 @@
 ### Is there anybody out there?
 
-- 🔭 Hi! I'm Rafael, I've been working with software development for 3 years and here are some of my projects!
+- 🔭 Hi, I'm Rafael! I'm 20 years old and I've been working with software development for 3 years!
 
 ##
 
