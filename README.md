@@ -6,7 +6,7 @@
 
 🌱 My academic background:
 - Maintenance and Computer Support Technician (2016 - 2018)
-- Analysis and Systems Development (2019 - 2021)
+- Analysis and Systems Development (2019 - 2022)
 
 ##
 
