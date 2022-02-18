@@ -13,12 +13,13 @@
 <div>
   <a href="https://github.com/rafaelscariot">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rafaelscariot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscariot&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscariot&layout=compact&langs_count=50&theme=merko"/>
 </div>
   
-  ##
+##
 <div style="display: inline">
   <img align="center" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="vscode-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="linux-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodejs-icon" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
