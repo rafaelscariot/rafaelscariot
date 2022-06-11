@@ -17,6 +17,7 @@
 </div>
   
 ##
+  
 <div style="display: inline">
   <img align="center" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nodejs-icon" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -31,6 +32,8 @@
   <img align="center" alt="vscode-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="flask-icon" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
 </div>
+  
+##
   
 ### Let's talk!
 <div>
