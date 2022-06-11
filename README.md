@@ -31,7 +31,8 @@
   <img align="center" alt="vscode-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="flask-icon" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
 </div>
-
+  
+### Let's talk!
 <div>
   <a href="https://www.linkedin.com/in/rafael-scariot-aab058192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a target="_blank" href="https://www.instagram.com/rafa_scariot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
