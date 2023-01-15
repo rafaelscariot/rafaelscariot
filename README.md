@@ -38,7 +38,6 @@
 ### Let's talk!
 <div>
   <a href="https://www.linkedin.com/in/rafael-scariot-aab058192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a target="_blank" href="https://www.instagram.com/rafa_scariot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="https://open.spotify.com/user/0axvrw74fku0kd95yhq5hmd77?si=603ea1f591b6480f"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
     <a target="_blank" href="https://steamcommunity.com/id/rflsait/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </div>
