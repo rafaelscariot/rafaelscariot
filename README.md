@@ -32,12 +32,3 @@
   <img align="center" alt="vscode-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="flask-icon" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
 </div>
-  
-##
-  
-### Let's talk!
-<div>
-  <a href="https://www.linkedin.com/in/rafael-scariot-aab058192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a target="_blank" href="https://open.spotify.com/user/0axvrw74fku0kd95yhq5hmd77?si=603ea1f591b6480f"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-    <a target="_blank" href="https://steamcommunity.com/id/rflsait/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
-</div>
