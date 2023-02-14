@@ -2,9 +2,9 @@
 
 - 🔭 Hi, I'm Rafael! I'm 21 years old and I've been working with software development for 4 years with emphasis on backend development.
   
-##
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+## About me
 
 - 💼 &nbsp; Senior Backend Engineer at [Compass.uol](https://compass.uol/en/home/).
 - 🎓 &nbsp; Analysis and Systems Development (2018 - 2022).
