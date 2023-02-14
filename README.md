@@ -1,6 +1,6 @@
 ### Is there anybody out there?
 
-- 🔭 Hi, I'm Rafael! I'm 21 years old and I've been working with software development for 4 years with emphasis on back development.
+- 🔭 Hi, I'm Rafael! I'm 21 years old and I've been working with software development for 4 years with emphasis on backend development.
 
 ##
 
