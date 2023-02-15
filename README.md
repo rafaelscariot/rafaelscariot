@@ -20,7 +20,7 @@
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 
 
-**Back-end technologies**
+**Back-end**
   
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=red)
@@ -73,7 +73,12 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js)
   ![Marko](https://img.shields.io/badge/Marko-333333?style=flat&logo=marko)
-
+  
+  **Mobile**
+  
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Kivy](https://img.shields.io/badge/-Kivy-333333?style=flat&logo=kivy)
+  
 ##
 
 <div>
