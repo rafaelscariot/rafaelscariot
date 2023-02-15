@@ -52,7 +52,6 @@
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=orange)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blueviolet)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![CircleCI](https://img.shields.io/badge/-CircleCI-333333?style=flat&logo=circleci&logoColor=grey)
   ![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-333333?style=flat&logo=diagrams.net)
   ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=github-actions)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
