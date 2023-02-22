@@ -18,6 +18,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+  ![GoLang](https://img.shields.io/badge/GoLang-333333?style=flat&logo=go)
 
 
 **Back-end**
