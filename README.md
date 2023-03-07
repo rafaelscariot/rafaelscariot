@@ -6,7 +6,7 @@
 
 ## About me
 
-- 💼 &nbsp; Backend Engineer at [Compass.uol](https://compass.uol/en/home/).
+- 💼 &nbsp; Backend Engineer at [PicPay](https://picpay.com/).
 - 🎓 &nbsp; Analysis and Systems Development (2018 - 2022).
 - 🎓 &nbsp; Maintenance and Computer Support Technician (2016 - 2018)
 - 📌 &nbsp; Brasil 🇧🇷.
