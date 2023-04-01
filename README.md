@@ -1,8 +1,6 @@
 ### Is there anybody out there?
 
-- 🔭 Hello! In my career I have worked on building digital products for the financial, healthcare and edtech sectors. Feel free to chat with me if you like (:
-
-     “The best way to predict the future is to invent it.”
+- 🔭 Hello! I've been working with software development for 4 years where I worked on building digital products for different sectors, such as finance, education and healthtech.
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
