@@ -1,6 +1,4 @@
-### Is there anybody out there?
-
-- 🔭 Hello! I've been working with software development for 4 years where I worked on building digital products for different sectors, such as finance, education and healthtech.
+Hello! I've been working with software development for 4 years where I worked on building digital products for different sectors, such as finance, education and healthtech.
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -79,13 +77,3 @@
   
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Kivy](https://img.shields.io/badge/-Kivy-333333?style=flat&logo=kivy)
-  
-##
-
-<div>
-  <a href="https://github.com/rafaelscariot">
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rafaelscariot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscariot&layout=compact&langs_count=12&theme=merko"/>
-</div>
-
----
