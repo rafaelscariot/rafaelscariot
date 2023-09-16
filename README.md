@@ -17,7 +17,7 @@ Hello! I've been working with software development for 4 years where I worked on
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
   ![GoLang](https://img.shields.io/badge/GoLang-333333?style=flat&logo=go)
-
+  ![GoLang](https://img.shields.io/badge/SQL-333333?style=flat&logo=SQL)
 
 **Back-end**
   
