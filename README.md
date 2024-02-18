@@ -4,7 +4,7 @@ Hello! I've been working with software development for 4 years where I worked on
 
 ## About me
 
-- 💼 &nbsp; Backend Engineer at [PicPay](https://picpay.com/).
+- 💼 &nbsp; Senior Backend Engineer at [PicPay](https://picpay.com/).
 - 🎓 &nbsp; Analysis and Systems Development (2018 - 2022).
 - 🎓 &nbsp; Maintenance and Computer Support Technician (2016 - 2018)
 - 📌 &nbsp; Brasil 🇧🇷.
