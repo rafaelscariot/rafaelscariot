@@ -1,4 +1,4 @@
-Hello! I've been working with software development for 4 years where I worked on building digital products for different sectors, such as finance, education and healthtech.
+Hello! I've been working with software development for 5 years where I worked on building digital products for different sectors, such as finance, education and healthtech.
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
