@@ -27,7 +27,6 @@ Hello! I've been working with software development for 5 years where I worked on
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
-  ![Node-RED](https://img.shields.io/badge/node-red)
 
   
 **Databases**
