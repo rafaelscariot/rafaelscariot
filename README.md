@@ -28,7 +28,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=Prisma&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-333333?logo=Flask)
   ![Node-RED](https://img.shields.io/static/v1?style=flat&message=Node-RED&color=333333&logo=Node-RED&logoColor=FFFFFF&label=)
-  ![Kafka](https://img.shields.io/static/v1?label=&message=kafka&logo=apache-kafka&color=333333)
+  ![Kafka](https://img.shields.io/static/v1?label=&message=Kafka&logo=apache-kafka&color=333333)
   ![SQS](https://img.shields.io/badge/SQS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
