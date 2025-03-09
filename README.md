@@ -26,9 +26,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![Flask](https://img.shields.io/badge/-Flask-333333?logo=Flask)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
 
-  
 **Databases**
 
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
@@ -63,7 +61,6 @@ Hello! I've been working with software development for 6 years where I worked on
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-333333?style=flat&logo=diagrams.net)
   ![Draw.io](https://img.shields.io/badge/-Draw.io-333333?style=flat&logo=draw.io)
-  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=github-actions)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=blue)
   ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
