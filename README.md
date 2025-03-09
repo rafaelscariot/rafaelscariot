@@ -71,6 +71,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js)
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
   ![Marko](https://img.shields.io/badge/Marko-333333?style=flat&logo=marko)
   
   **Mobile**
