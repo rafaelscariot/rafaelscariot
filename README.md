@@ -17,7 +17,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
   ![GoLang](https://img.shields.io/badge/GoLang-333333?style=flat&logo=go)
-  ![GoLang](https://img.shields.io/badge/SQL-333333?style=flat&logo=SQL)
+  ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=SQL)
 
 **Back-end**
   
@@ -37,7 +37,7 @@ Hello! I've been working with software development for 6 years where I worked on
  
 **Clouds**
 
- ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+ ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
  ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=google-cloud)
  ![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-333333?style=flat&logo=huawei&logoColor=FF9900)
 
@@ -54,7 +54,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
   ![PyPi](https://img.shields.io/badge/-PyPi-333333?style=flat&logo=pypi)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=orange)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blueviolet)
