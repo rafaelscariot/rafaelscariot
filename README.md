@@ -23,7 +23,7 @@ Hello! I've been working with software development for 6 years where I worked on
   
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![NestJS](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs&logoColor=red)
-  ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![ExpressJS](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-333333?logo=Flask)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -56,7 +56,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
   ![PyPi](https://img.shields.io/badge/-PyPi-333333?style=flat&logo=pypi)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=Jira&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=orange)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blueviolet)
@@ -71,7 +71,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js)
-  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?logo=react&logoColor=white&style=flat)
   ![Marko](https://img.shields.io/badge/Marko-333333?style=flat&logo=marko)
   
   **Mobile**
