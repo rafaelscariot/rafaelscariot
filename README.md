@@ -23,6 +23,7 @@ Hello! I've been working with software development for 6 years where I worked on
   
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=red)
+  ![ExpressJS](https://img.shields.io/badge/-express.js-000000?style=flat&logo=express&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-333333?logo=Flask)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -55,7 +56,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
   ![PyPi](https://img.shields.io/badge/-PyPi-333333?style=flat&logo=pypi)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-  ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=orange)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blueviolet)
