@@ -55,6 +55,7 @@ Hello! I've been working with software development for 6 years where I worked on
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
   ![PyPi](https://img.shields.io/badge/-PyPi-333333?style=flat&logo=pypi)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+  ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=orange)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blueviolet)
@@ -74,4 +75,3 @@ Hello! I've been working with software development for 6 years where I worked on
   **Mobile**
   
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Kivy](https://img.shields.io/badge/-Kivy-333333?style=flat&logo=kivy)
