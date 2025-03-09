@@ -21,9 +21,9 @@ Hello! I've been working with software development for 6 years where I worked on
 
 **Back-end**
   
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=red)
-  ![ExpressJS](https://img.shields.io/badge/-express.js-000000?style=flat&logo=express&logoColor=white)
+  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![NestJS](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs&logoColor=red)
+  ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-333333?logo=Flask)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -39,7 +39,7 @@ Hello! I've been working with software development for 6 years where I worked on
 **Clouds**
 
  ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
- ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=google-cloud)
+ ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
  ![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-333333?style=flat&logo=huawei&logoColor=FF9900)
 
 **Tests**
